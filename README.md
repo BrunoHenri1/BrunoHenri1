@@ -62,7 +62,7 @@ Sou estudante de programação, fazendo o curso de Analise e Desenvolvimento de 
     alt="GitHub Stats" 
     height="170px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BrunoHenri1&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=BrunoHenri1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
 <img 
