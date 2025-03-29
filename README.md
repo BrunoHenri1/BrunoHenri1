@@ -60,7 +60,7 @@ Sou estudante de programação, fazendo o curso de Analise e Desenvolvimento de 
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200px" 
+    height="180px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=BrunoHenri1&show_icons=true&theme=tokyonight&include_all_commits=True&locale=pt-br" 
 />
@@ -68,7 +68,7 @@ Sou estudante de programação, fazendo o curso de Analise e Desenvolvimento de 
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200px" 
+    height="180px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoHenri1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
