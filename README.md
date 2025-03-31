@@ -19,6 +19,21 @@ Sou estudante de programação, fazendo o curso de Analise e Desenvolvimento de 
             src="https://custom-icon-badges.demolab.com/github/stars/BrunoHenri1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+    <a href="https://www.linkedin.com/in/brunohenrique-me/">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/buno.henrique.me/">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+        />
+    </a>
+
 </p>
 
 ---
