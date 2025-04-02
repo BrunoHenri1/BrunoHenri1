@@ -66,6 +66,14 @@ Sou estudante de programação, fazendo o curso de Analise e Desenvolvimento de 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
 
 <br/>
 <br/>
